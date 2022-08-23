@@ -1,0 +1,15 @@
+C:\Users\днс\OneDrive\Рабочий стол\jol\seccc\bin\Debug\net6.0\seccc.exe
+C:\Users\днс\OneDrive\Рабочий стол\jol\seccc\bin\Debug\net6.0\seccc.deps.json
+C:\Users\днс\OneDrive\Рабочий стол\jol\seccc\bin\Debug\net6.0\seccc.runtimeconfig.json
+C:\Users\днс\OneDrive\Рабочий стол\jol\seccc\bin\Debug\net6.0\seccc.dll
+C:\Users\днс\OneDrive\Рабочий стол\jol\seccc\bin\Debug\net6.0\seccc.pdb
+C:\Users\днс\OneDrive\Рабочий стол\jol\seccc\obj\Debug\net6.0\seccc.csproj.AssemblyReference.cache
+C:\Users\днс\OneDrive\Рабочий стол\jol\seccc\obj\Debug\net6.0\seccc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\днс\OneDrive\Рабочий стол\jol\seccc\obj\Debug\net6.0\seccc.AssemblyInfoInputs.cache
+C:\Users\днс\OneDrive\Рабочий стол\jol\seccc\obj\Debug\net6.0\seccc.AssemblyInfo.cs
+C:\Users\днс\OneDrive\Рабочий стол\jol\seccc\obj\Debug\net6.0\seccc.csproj.CoreCompileInputs.cache
+C:\Users\днс\OneDrive\Рабочий стол\jol\seccc\obj\Debug\net6.0\seccc.dll
+C:\Users\днс\OneDrive\Рабочий стол\jol\seccc\obj\Debug\net6.0\refint\seccc.dll
+C:\Users\днс\OneDrive\Рабочий стол\jol\seccc\obj\Debug\net6.0\seccc.pdb
+C:\Users\днс\OneDrive\Рабочий стол\jol\seccc\obj\Debug\net6.0\seccc.genruntimeconfig.cache
+C:\Users\днс\OneDrive\Рабочий стол\jol\seccc\obj\Debug\net6.0\ref\seccc.dll
