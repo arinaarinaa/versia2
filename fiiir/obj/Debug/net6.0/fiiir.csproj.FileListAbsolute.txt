@@ -1,0 +1,15 @@
+C:\Users\днс\OneDrive\Рабочий стол\jol\fiiir\bin\Debug\net6.0\fiiir.exe
+C:\Users\днс\OneDrive\Рабочий стол\jol\fiiir\bin\Debug\net6.0\fiiir.deps.json
+C:\Users\днс\OneDrive\Рабочий стол\jol\fiiir\bin\Debug\net6.0\fiiir.runtimeconfig.json
+C:\Users\днс\OneDrive\Рабочий стол\jol\fiiir\bin\Debug\net6.0\fiiir.dll
+C:\Users\днс\OneDrive\Рабочий стол\jol\fiiir\bin\Debug\net6.0\fiiir.pdb
+C:\Users\днс\OneDrive\Рабочий стол\jol\fiiir\obj\Debug\net6.0\fiiir.csproj.AssemblyReference.cache
+C:\Users\днс\OneDrive\Рабочий стол\jol\fiiir\obj\Debug\net6.0\fiiir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\днс\OneDrive\Рабочий стол\jol\fiiir\obj\Debug\net6.0\fiiir.AssemblyInfoInputs.cache
+C:\Users\днс\OneDrive\Рабочий стол\jol\fiiir\obj\Debug\net6.0\fiiir.AssemblyInfo.cs
+C:\Users\днс\OneDrive\Рабочий стол\jol\fiiir\obj\Debug\net6.0\fiiir.csproj.CoreCompileInputs.cache
+C:\Users\днс\OneDrive\Рабочий стол\jol\fiiir\obj\Debug\net6.0\fiiir.dll
+C:\Users\днс\OneDrive\Рабочий стол\jol\fiiir\obj\Debug\net6.0\refint\fiiir.dll
+C:\Users\днс\OneDrive\Рабочий стол\jol\fiiir\obj\Debug\net6.0\fiiir.pdb
+C:\Users\днс\OneDrive\Рабочий стол\jol\fiiir\obj\Debug\net6.0\fiiir.genruntimeconfig.cache
+C:\Users\днс\OneDrive\Рабочий стол\jol\fiiir\obj\Debug\net6.0\ref\fiiir.dll
